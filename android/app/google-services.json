@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "174778883891",
+    "project_id": "flutter-expense01",
+    "storage_bucket": "flutter-expense01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174778883891:android:b0d9d76505b51977eae846",
+        "android_client_info": {
+          "package_name": "com.example.daily_expenses"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBohqX-SJdM86uSBynPkawNzgsocF4CXEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
